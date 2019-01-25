@@ -12,3 +12,5 @@ Requirements :
 How to :
 - Execute to install packages pip 
 - pip3 install -r requirements.txt
+- Execute test :
+  - python3 [test_case_name.py]
