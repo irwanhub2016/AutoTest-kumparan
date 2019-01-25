@@ -9,5 +9,6 @@ Requirements :
 - Chromedriver
 - HtmlTestRunner
 
--> Execute to install packages pip. 
--> pip3 install -r requirements.txt
+How to :
+- Execute to install packages pip 
+- pip3 install -r requirements.txt
