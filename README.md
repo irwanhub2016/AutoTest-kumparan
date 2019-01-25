@@ -14,3 +14,4 @@ How to :
 - pip3 install -r requirements.txt
 - Execute test :
   - python3 [test_case_name.py]
+- Automatically report from the test will generate in folder -> test-reports
