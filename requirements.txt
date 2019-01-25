@@ -1,0 +1,6 @@
+selenium==3.141.0
+unittest-xml-reporting==2.2.1
+progressbar==2.5
+html-testRunner==1.1.2
+python-dotenv==0.10.1
+chromedriver==2.10
